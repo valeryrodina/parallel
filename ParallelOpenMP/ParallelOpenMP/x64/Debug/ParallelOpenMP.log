@@ -1,0 +1,9 @@
+﻿Build started 01.06.2017 1:31:21.
+     1>Project "C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\ParallelOpenMP\ParallelOpenMP.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         ParallelOpenMP.vcxproj -> C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\x64\Debug\ParallelOpenMP.exe
+     1>Done Building Project "C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\ParallelOpenMP\ParallelOpenMP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

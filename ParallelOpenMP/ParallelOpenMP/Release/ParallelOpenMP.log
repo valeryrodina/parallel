@@ -1,0 +1,10 @@
+﻿Build started 31.05.2017 0:05:32.
+     1>Project "C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\ParallelOpenMP\ParallelOpenMP.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1190,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+     1>Link:
+         ParallelOpenMP.vcxproj -> C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\Release\ParallelOpenMP.exe
+     1>Done Building Project "C:\Users\lera\Documents\Visual Studio 2013\Projects\parallel\ParallelOpenMP\ParallelOpenMP\ParallelOpenMP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
